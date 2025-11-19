@@ -1,6 +1,11 @@
 
 # sparseNumeric
 
+<!-- badges: start -->
+
+[![R-CMD-check](https://github.com/PrestonBui/sparseNumeric/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/PrestonBui/sparseNumeric/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
 `sparseNumeric` implements an S4 class for sparse numeric vectors and
 provides arithmetic, norms, and standardization using the sparse
 representation.
